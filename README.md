@@ -1,9 +1,8 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 # Date: 11-03-2025
-```
-Name : k.pujitha
-Register number : 212223240045
-```
+
+## Name : k.pujitha
+## Register number : 212223240074
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
